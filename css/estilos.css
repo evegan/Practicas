@@ -1,0 +1,38 @@
+
+body{
+    background:beige;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    width: 70%;
+}
+
+nav ul{
+    padding-left: 0px;
+    
+}
+
+nav li{
+    border-right: 2px solid black;
+    border border-radius: 1px;
+    padding: 0px 10px 0px 10px;
+    display: inline-block;
+}
+
+section{
+    width: 60%;
+    float: left;
+}
+
+aside{    
+    width: 35%;
+    float: right;
+}
+
+footer{
+    clear: both;
+}
+
+article{
+   background-color: gray
+}
+
