@@ -1,0 +1,307 @@
+body {
+    font-family: "jaf-facitweb","Helvetica Neue",Arial,sans-serif;
+    color: #4d4d4d;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 1.44em;
+}
+a {
+    color: #5e98ba;
+}
+
+element.style {
+    height: 80px;
+    margin-bottom: 2em;
+}
+section img{
+    margin: 1em auto;
+}
+section{
+    padding: 4em 1em;
+}
+
+p{
+display: block;    
+}
+
+h1{
+    font-size: 1.777em;
+    line-height: 1.2em;
+}
+
+
+.textTrelloEsp{
+    display: block;
+    max-width: 585px;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+}
+
+.tamano{
+    padding: 3.5em 1em;
+}
+    
+.imagenTrello{
+    height: 80px;
+    margin-bottom: 2em;
+}
+
+div.principal{
+    text-align: center;
+    margin: 0 auto;
+    max-width: 1300px;
+}
+div.text{
+    text-align: center;
+}
+.botonInicio{
+    background: #61bd4f;
+    background: linear-gradient(top, #61bd4f 0, #5aac44 100%);
+    background: linear-gradient(to bottom, #61bd4f 0, #5aac44 100%);
+    box-shadow: 0 2px 0 #3f6f21;
+    color: #fff;   
+}
+
+.boton{
+    border-radius: .3em;
+    box-shadow: 0 2px 0 #4d4d4d;
+    color: #e4f0f6;
+    display: inline-block;
+    font-weight: bold;
+    margin-bottom: .8em;
+    padding: .6em 1.3em;
+    position: relative;
+    text-decoration: none;
+    border: 0;
+}
+
+
+a.sesion {
+    color: #999;
+}
+
+section.seccionAzul{
+    background: #0079bf;    
+    color: #fff;
+    padding: 2em 1em;
+}
+
+div.contenido {
+    max-width: 540px;
+    margin: 0 auto;
+}
+
+.imagen1{
+    box-sizing: border-box;
+    max-width: 100%;
+    padding: 2em 3em 2em;
+    border-radius: 4px;
+}
+
+div.contenidos{
+    display: block;
+    max-width: 585px;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    
+}
+
+.botonVer{
+    border: 1px solid;
+    border-radius: .3em;
+    display: inline-block;
+    margin: .6em 0;
+    padding: .6em 1em;
+    text-decoration: none;
+    background: transparent;
+}
+
+.imagen2{
+    width: 600px;
+    height: 357.766px;
+    border-radius:4px;
+    margin: 1em auto;
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+
+.seccion img {
+    display: block;
+    margin: 1em auto;
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+.seccion3{
+    padding: 4em 1em;
+    padding-bottom: 0;
+    overflow: hidden;
+    word-wrap: break-word;
+    display: block;
+}
+
+.contenidos3{
+    text-align: center;
+    margin: 0 auto;
+    max-width: 1300px;
+    font-size: 20px;
+}
+
+.letras3{
+    display: block;
+    max-width: 585px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.seccion4{
+    background-color: #e4f0f6;
+    padding: 3em 1em;
+}
+.contenido4{
+    margin: 0 auto;
+    max-width: 890px;
+    position: relative;
+}
+
+.imagens4{
+    left: 640px;
+    position: absolute;
+    top: -3em;
+}
+
+.imagens4 img{
+    max-width: initial;
+}
+.textos4{
+    max-width: 585px;
+}
+
+.imgs4{
+    display: inline-block;
+    margin: .4em 1em 0 0;
+    padding: 0;
+    vertical-align: top;
+}
+
+.imgs4 img{
+    height: 54px;
+    margin: 0px;
+}
+
+
+.imgs5{
+    margin: 0 auto;
+    max-width: 890px;
+    position: relative   
+}
+
+.img51{
+    left: 640px;
+    position: absolute;
+    top: -3em;
+}
+
+.textos5{
+    max-width: 585px;
+}
+
+.textos6{
+    margin: 0 auto;
+    max-width: 1300px;
+    top: -1em;
+}
+
+.textocentro{
+    padding-bottom: 2em;
+    text-align: center;
+}
+
+.textocentro img{
+    height: 60px;    
+    display: inline-block;
+    margin: 0 1em 1em;
+
+}
+
+.seccion7{
+    background: #42548e;
+    color: #fff;
+}
+
+.contenido7{
+    margin: 0 auto;
+    max-width: 890px;
+    position: relative;
+    text-align: left;
+}
+
+.text7{
+    margin-left: 315px;
+    width: 585px;
+}
+
+.imagenPost{
+    top: -1em;
+}
+
+.post{
+    right: 640px;
+    position: absolute;
+}
+
+.contenidos7{
+    margin: 0 auto;
+    max-width: 1300px;
+    text-align: center;
+}
+
+.textos7{
+    display: block;
+    max-width: 585px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.seccionAzul1{
+    background: #0079bf;
+    color: #fff;
+    padding: 4em 1em;
+}
+
+.secciontext{
+    margin: 0 auto;
+    max-width: 890px;
+    position: relative;
+}
+
+.contenido8{
+    top: -4em;
+    right: 640px;
+    position: absolute;
+}
+
+.color{
+    color: #999;
+}
+
+footer{
+    display: block;
+    font-size: .8em;
+    margin: 4em 1em;
+    text-align: center;
+}
+
+footer ul{
+    list-style: none;
+    margin: .5em 0 0;
+    padding: 0;
+}
+
+footer li{
+    display: inline-block;
+    margin: 0 .4em;
+}
